@@ -6,7 +6,7 @@ public class BasicCode {
 		
 		//Identifers - age, salary, isPassed & grade
 		
-		int age = 20; //variable or data member
+		int age = 10; //variable or data member
 		double salary = 50000.00;
 		boolean isPassed = true;
 		char grade = 'A';
